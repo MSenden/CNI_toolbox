@@ -2,19 +2,19 @@
 
 The Computational Neuroimaging Toolbox is a MATLAB toolbox for estimating input-referred models. Specifically, the toolbox contains tools for Fourier analyses of phase-encoded stimuli, population receptive field mapping, estimating parameters of generic (user-defined) input-referred models as well as performing ridge regression.
 
-This code is hosted at https://github.com/MSenden/CNI_toolbox
+This code is hosted at https://github.com/ccnmaastricht/CNI_toolbox
 The latest version may always be found here.
 
 This software was developed with MATLAB R2017a and access to the full suite of MATLAB add-on packages. Some of these packages may be required to run the software.
 
 ## Installation
-There are two options for installing the toolbox. Either download the toolbox file [Computational Neuroimaging Toolbox.mltbx](https://github.com/MSenden/CNI_toolbox/raw/master/Computational%20Neuroimaging%20Toolbox.mltbx), navigate to the downloaded file within MATLAB and then execute the following command:
+There are two options for installing the toolbox. Either download the toolbox file [Computational Neuroimaging Toolbox.mltbx](https://github.com/ccnmaastricht/CNI_toolbox/raw/master/Computational%20Neuroimaging%20Toolbox.mltbx), navigate to the downloaded file within MATLAB and then execute the following command:
 
 ```MATLAB
 matlab.addons.toolbox.installToolbox('Computational Neuroimaging Toolbox.mltbx');
 ```
 
-Alternatively, download the compressed toolbox [Computational Neuroimaging Toolbox.zip](https://github.com/MSenden/CNI_toolbox/raw/master/Computational%20Neuroimaging%20Toolbox.zip) and extract it into Documents/MATLAB/Add-Ons/Toolboxes.
+Alternatively, download the compressed toolbox [Computational Neuroimaging Toolbox.zip](https://github.com/ccnmaastricht/CNI_toolbox/raw/master/Computational%20Neuroimaging%20Toolbox.zip) and extract it into Documents/MATLAB/Add-Ons/Toolboxes.
 
 ## Files
 This repository contains four files.
